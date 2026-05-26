@@ -1,2 +1,2 @@
 ## GSM TRPG
-- Tabletop Role-Playing Game
+- Text Role-Playing Game
